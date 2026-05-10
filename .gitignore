@@ -1,0 +1,11 @@
+# datasets
+dataset_raw/
+features_raw_old/
+features_raw_v2/
+dataset_raw.zip
+0_GARBAGE/
+1_dataset_VIDEO/
+# large files
+*.mp4
+*.avi
+*.mov

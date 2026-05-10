@@ -1,0 +1,37 @@
+split,label,rows,people
+train,bird,3380,2 3 4 5 11 12 13
+val,bird,968,1 10
+test,bird,966,6 7
+train,boar,3364,2 3 4 5 11 12 13
+val,boar,964,1 10
+test,boar,966,6 7
+train,dog,3030,2 3 4 5 11 12 13
+val,dog,968,1 10
+test,dog,966,6 7
+train,dragon,3382,2 3 4 5 11 12 13
+val,dragon,966,1 10
+test,dragon,966,6 7
+train,hare,3376,2 3 4 5 11 12 13
+val,hare,968,1 10
+test,hare,964,6 7
+train,horse,3380,2 3 4 5 11 12 13
+val,horse,964,1 10
+test,horse,964,6 7
+train,monkey,2890,2 3 4 5 11 12 13
+val,monkey,954,1 10
+test,monkey,954,6 7
+train,ox,3184,2 3 4 5 11 12 13
+val,ox,966,1 10
+test,ox,946,6 7
+train,ram,3382,2 3 4 5 11 12 13
+val,ram,966,1 10
+test,ram,964,6 7
+train,rat,3406,2 3 4 5 11 12 13
+val,rat,972,1 10
+test,rat,974,6 7
+train,snake,3380,2 3 4 5 11 12 13
+val,snake,964,1 10
+test,snake,960,6 7
+train,tiger,3076,2 3 4 5 11 12 13
+val,tiger,966,1 10
+test,tiger,968,6 7
